@@ -1,0 +1,9 @@
+# Ignore downloaded media files
+*.mp4
+*.m4a
+*.webm
+*.mkv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
